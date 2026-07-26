@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "PuzzlePlatformEditor Editor Win64 Development (PuzzlePlatform)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform.json"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_Default.json"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

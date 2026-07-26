@@ -1,0 +1,127 @@
+[
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\LobbyGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\LobbyGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\InGameMenu.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\InGameMenu.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\MainMenu.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\MainMenu.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\MenuInterface.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\MenuInterface.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\MenuWidget.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\MenuWidget.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\ServerRow.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MenuSystem\\\\ServerRow.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\MovingPlatform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PlatformTrigger.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PlatformTrigger.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PuzzlePlatform.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PuzzlePlatform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PuzzlePlatform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PuzzlePlatformCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PuzzlePlatformCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PuzzlePlatformGameInstance.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PuzzlePlatformGameInstance.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PuzzlePlatformGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal Projects\\\\PuzzlePlatform\\\\Source\\\\PuzzlePlatform\\\\PuzzlePlatformGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatform\\PuzzlePlatform.212.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]
