@@ -300,8 +300,9 @@ void UPuzzlePlatformGameInstance::RefreshServer()
     SessionSearch = MakeShareable(new FOnlineSessionSearch());
     if (SessionSearch.IsValid())
     {
-        SessionSearch->bIsLanQuery = true;        //?이 코드 제거하면 기본값인 false가 되어 LAN이 아니라 온라인 서버를 찾겠다는 뜻
+        // SessionSearch->bIsLanQuery = true;        //?이 코드 제거하면 기본값인 false가 되어 LAN이 아니라 온라인 서버를 찾겠다는 뜻
         SessionSearch->MaxSearchResults = 100;      //? 현재 Steam의 AppId 480번은 모든 사람들이 공유하고 있으므로 로비를 검색하면 다른사람의 로비도 같이 뜨게 됨, 따라서 나의 로비를 찾지 못할 수 있으므로 높은 숫자인 100으로 설정해서 나의 로비를 찾을 수 있게 설정
+        SessionSearch->QuerySettings.Set(SEARCH_LOBBIES, true, EOnlineComparisonOp::Equals);    //강의에서는 프레젠스만 있었는데 로비도 해줘야됨
         SessionSearch->QuerySettings.Set(SEARCH_PRESENCE, true, EOnlineComparisonOp::Equals);
         UE_LOG(LogTemp, Warning, TEXT("Session Finding..."));
         SessionInterface->FindSessions(0, SessionSearch.ToSharedRef());
